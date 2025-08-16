@@ -4,7 +4,7 @@ Datos del alumno
 -Nombre: Jóse Eduardo
 -Apellidos: Pozos_Zecua
 -Matricula:_202265781_
--Materia: Tecnología web
+-Materia:_Tecnología_web_
 -Periodo: Otoño 2025
 
 Descripcion: Proyecto de ejemplo para repasar
