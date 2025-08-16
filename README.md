@@ -10,3 +10,5 @@ Datos del alumno
 Descripcion: Proyecto de ejemplo para repasar
 comandos basicos de UNIX, configurar un
 repositorio local con Git y uso basicos 
+
+Descripcion breve: Incluyendo el repositor al trabajo tanto el main y en el dev
