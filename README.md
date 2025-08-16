@@ -2,7 +2,7 @@
 Datos del alumno
 
 -Nombre: Jóse Eduardo
--Apellidos: Pozos Zecua
+-Apellidos: Pozos_Zecua
 -Matricula: 202265781
 -Materia: Tecnología web
 -Periodo: Otoño 2025
