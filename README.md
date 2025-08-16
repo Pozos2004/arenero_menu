@@ -5,7 +5,7 @@ Datos del alumno
 -Apellidos: Pozos_Zecua
 -Matricula:_202265781_
 -Materia:_Tecnología_web_
--Periodo: Otoño 2025
+-Periodo:_Otoño2025_
 
 Descripcion: Proyecto de ejemplo para repasar
 comandos basicos de UNIX, configurar un
