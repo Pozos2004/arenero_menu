@@ -1,5 +1,5 @@
 # arenero_menu
-Datos del alumno
+Datos_del_alumno
 
 -Nombre: Jóse Eduardo
 -Apellidos: Pozos_Zecua
